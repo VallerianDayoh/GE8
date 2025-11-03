@@ -1,3 +1,5 @@
+// Rumagit, Pranata vareliano
+
 import Evolution from './Evolution';
 import TypeEffect from './TypeEffect';
 
