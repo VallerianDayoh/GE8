@@ -1,3 +1,4 @@
+// Rumagit, Pranata Vareliano
 import Logo from './Logo';
 
 function Footer() {
