@@ -1,3 +1,4 @@
+// imanuel
 import Generations from './Generations';
 import CardInfo from './CardInfo';
 
